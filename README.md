@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.canva.com/design/DAFgk7thYxA/bpr8EyahXmdpRQ7ranCeuw/edit?utm_content=DAFgk7thYxA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.canva.com/design/DAFgk7thYxA/bpr8EyahXmdpRQ7ranCeuw/edit?utm_content=DAFgk7thYxA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Sourav Rout</h1>
 <h3 align="center">Coding With Purpose: A Software Engineer / to make a impact.</h3>
-img align="right" alt="Coding" width="400" src="https://gifer.com/en/Ry6p"
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav234698&label=Profile%20views&color=0e75b6&style=flat" alt="sourav234698" /> </p>
 
