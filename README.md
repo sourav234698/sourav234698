@@ -1,53 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>My Webpage</title>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="style.css">
-</head>
-<body>
-	<header>
-		<h1>Welcome to My Webpage</h1>
-		<nav>
-			<ul>
-				<li><a href="#about">About</a></li>
-				<li><a href="#services">Services</a></li>
-				<li><a href="#contact">Contact</a></li>
-			</ul>
-		</nav>
-	</header>
-	<main>
-		<section id="about">
-			<h2>About Me</h2>
-			<p>I am a web developer from [Your City] with experience in HTML, CSS, JavaScript, and other web technologies. </p>
-		</section>
-		<section id="services">
-			<h2>Services</h2>
-			<ul>
-				<li>Web Development</li>
-				<li>Mobile App Development</li>
-				<li>Search Engine Optimization</li>
-			</ul>
-		</section>
-		<section id="contact">
-			<h2>Contact Me</h2>
-			<form>
-				<label for="name">Name:</label>
-				<input type="text" id="name" name="name" required><br>
+# Hi there, I'm [Your Name]! 👋
 
-				<label for="email">Email:</label>
-				<input type="email" id="email" name="email" required><br>
+I'm a [Your Profession], passionate about [Your Passion]. Welcome to my GitHub profile! 
 
-				<label for="message">Message:</label>
-				<textarea id="message" name="message" rows="5" cols="30"></textarea><br>
+## 🔧 Technologies & Tools
 
-				<input type="submit" value="Submit">
-			</form>
-		</section>
-	</main>
-	<footer>
-		<p>Copyright © My Webpage</p>
-	</footer>
-</body>
-</html>
+Here are some of the technologies and tools that I work with:
+
+- [Technology/Tool 1]
+- [Technology/Tool 2]
+- [Technology/Tool 3]
+- [Technology/Tool 4]
+
+## 📈 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your Username]&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌐 Connect with Me
+
+- [Your Website]
+- [LinkedIn](https://www.linkedin.com/in/[Your LinkedIn Profile])
+- [Twitter](https://twitter.com/[Your Twitter Handle])
+- [Email](mailto:[Your Email])
+
