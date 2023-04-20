@@ -1,24 +1,25 @@
-# Hi there, I'm [Your Name]! 👋
+<h1 align="center">Hi 👋, I'm Sourav Rout</h1>
+<h3 align="center">Coding With Purpose: A Software Engineer to make a impact.🥰</h3>
+<img src="https://gifer.com/en/RC1A" alt="Description of Image">
+- 🔭 I’m currently working on **Movement Detection of CCTV images**
 
-I'm a [Your Profession], passionate about [Your Passion]. Welcome to my GitHub profile! 
+- 🌱 I’m currently learning **DevOps**
 
-## 🔧 Technologies & Tools
+- 💬 Ask me about **JAVA , SQL , Data Structures**
 
-Here are some of the technologies and tools that I work with:
+- 📫 How to reach me **Sourabhrout2002@gmail.com**
 
-- [Technology/Tool 1]
-- [Technology/Tool 2]
-- [Technology/Tool 3]
-- [Technology/Tool 4]
+- 📄 Know about my experiences [https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/drive/u/1/my-drive)
 
-## 📈 GitHub Stats
+- ⚡ Fun fact **I use rubber duck debugging.**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your Username]&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sourabh-rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh-rout" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sourabhrout2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourabhrout2002" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/soruabh_rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soruabh_rout" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sourabhrout2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sourabhrout2002" height="30" width="40" /></a>
+</p>
 
-## 🌐 Connect with Me
-
-- [Your Website]
-- [LinkedIn](https://www.linkedin.com/in/[Your LinkedIn Profile])
-- [Twitter](https://twitter.com/[Your Twitter Handle])
-- [Email](mailto:[Your Email])
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
