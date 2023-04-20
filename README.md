@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav Rout</h1>
 <h3 align="center">Coding With Purpose: A Software Engineer to make a impact.🥰</h3>
-<img src="https://gifer.com/en/RC1A" alt="Description of Image">
+
 - 🔭 I’m currently working on **Movement Detection of CCTV images**
 
 - 🌱 I’m currently learning **DevOps**
