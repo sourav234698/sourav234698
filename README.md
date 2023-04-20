@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Sourabhrout2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/drive/u/1/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1e3_BaIEbn884bmBynHLKwvukGIdOZtca/view?usp=sharing](https://drive.google.com/file/d/1e3_BaIEbn884bmBynHLKwvukGIdOZtca/view?usp=sharing)
 
 - ⚡ Fun fact **I use rubber duck debugging.**
 
